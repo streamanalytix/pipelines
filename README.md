@@ -1,1 +1,1 @@
-# StreamAnalytix pipelines
+# StreamAnalytix Pipelines
